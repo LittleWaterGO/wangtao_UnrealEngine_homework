@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9CACE7DA-4244-4BED-927F-579E44DFAFE4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FristClass",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
